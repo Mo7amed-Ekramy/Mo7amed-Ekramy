@@ -7,7 +7,7 @@
 <a href="mailto:mohamedekramy2510@gmail.com"><img src="assets/link-email.svg" alt="Email Mohamed" height="38" /></a>
 </p>
 
-I build across **interfaces, application logic, and databases**. I'm a Software Engineering undergraduate at **Assiut National University**, graduating in **2027**, with a **CGPA of 3.76**.
+I'm a **software engineer** building full-stack applications with Python and JavaScript. I use React for interfaces and Django or Flask for the APIs behind them.
 
 My work also takes me into compilers, search algorithms, and file systems. I like understanding what happens underneath the interface.
 
